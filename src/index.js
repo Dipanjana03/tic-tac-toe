@@ -36,7 +36,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 const Game = () => {
   return (
     <div style={gameStyles} className="game">
-      TIC-TAC-TOE
+     lets play TIC-TAC-TOE game
       <Board/>
     </div>
   );
